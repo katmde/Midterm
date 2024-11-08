@@ -1,0 +1,14 @@
+import url("https://i.pinimg.com/736x/35/e9/a5/35e9a5ef7353bfe4e699c1edf27ec3e0.jpg)
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+header{
+    height: 80px;
+    width: 100px;
+    background: #edebca
+    text-align: center;
+
+}
